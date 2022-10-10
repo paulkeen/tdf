@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "Tyro Delivery Framework"
 
 # Language settings
 contentDir = "content/en"
@@ -60,14 +60,14 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "Tyro Delivery Framework"
+description = "Tyro SDLC"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
 [languages.no]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
+title = "Tyro Delivery Framework"
+description = "Tyro SDLC"
 languageName ="Norsk"
 contentDir = "content/no"
 time_format_default = "02.01.2006"
@@ -98,8 +98,8 @@ time_format_blog = "2006.01.02"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "The Docsy Authors"
-privacy_policy = "https://policies.google.com/privacy"
+copyright = "Tyro Payments Limited. "
+privacy_policy = "https://www.tyro.com/privacy-policy/"
 
 # First one is picked as the Twitter card image if not set on page.
 # images = ["images/project-illustration.png"]
@@ -123,9 +123,9 @@ version = "0.0"
 url_latest_version = "https://example.com"
 
 # Repository configuration (URLs for in-page links to opening issues and suggesting changes)
-github_repo = "https://github.com/google/docsy-example"
+github_repo = "https://github.com/tyro"
 # An optional link to a related project repo. For example, the sibling repository where your product code lives.
-github_project_repo = "https://github.com/google/docsy"
+github_project_repo = "https://github.com/tyro"
 
 # Specify a value here if your content directory is not in your repo's root directory
 # github_subdir = ""
@@ -159,7 +159,7 @@ navbar_translucent_over_cover_disable = false
 # Enable to show the side bar menu in its compact state.
 sidebar_menu_compact = false
 # Set to true to hide the sidebar search box (the top nav search box will still be displayed if search is enabled)
-sidebar_search_disable = false
+sidebar_search_disable = true
 
 # Adds a H2 section titled "Feedback" to the bottom of each doc. The responses are sent to Google Analytics as events.
 # This feature depends on [services.googleAnalytics] and will be disabled if "services.googleAnalytics.id" is not set.

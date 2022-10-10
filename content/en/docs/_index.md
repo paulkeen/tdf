@@ -1,6 +1,6 @@
 
 ---
-title: "Documentation"
+title: "About TDF"
 linkTitle: "Documentation"
 weight: 20
 menu:
@@ -9,16 +9,25 @@ menu:
 ---
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+Although the audience of the TDF is intended for internal use, we
+decided to share publicly how we build our Technology at Tyro as a
+useful resource for others.
 {{% /pageinfo %}}
 
 
-This section is where the user documentation for your project lives - all the information your users need to understand and successfully use your project. 
+The Tyro Delivery Framework (TDF) brings the right people together to
+collaboratively achieve key outcomes that prioritise and deliver value
+to customers.
 
-For large documentation sets we recommend adding content under the headings in this section, though if some or all of them don’t apply to your project feel free to remove them or add your own. You can see an example of a smaller Docsy documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which lives in the [Docsy theme repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to copy its docs section. 
+The Tyro Delivery Framework sits alongside the Product Lifecycle
+Management (PMLP) which covers the phases before and after the TDF,
+largely the handshake is between the Epic and code release.
 
-Other content such as marketing material, case studies, and community updates should live in the [About](/about/) and [Community](/community/) pages.
+The TDF is an a la carte menu of activities & practices which support
+the delivery of an Epic. Not all activities have to be performed for
+each Epic to be delivered - different challenges will require a
+different focus. The activities are a driver for a collaborative,
+engaging conversation to make Delivery as valuable as possible and set
+the team up for a successful outcome.
 
-Find out how to use the Docsy theme in the [Docsy User Guide](https://docsy.dev/docs/). You can learn more about how to organize your documentation (and how we organized this site) in [Organizing Your Content](https://docsy.dev/docs/best-practices/organizing-content/).
-
-
+![](/img/media/image1.png)
